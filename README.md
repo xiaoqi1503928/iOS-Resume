@@ -1,2 +1,0 @@
-# iOS-Resume
-iOS-Resume
